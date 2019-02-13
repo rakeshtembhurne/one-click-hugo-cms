@@ -1,6 +1,6 @@
 ---
 title: About
-image: /img/image1.jpg
+image: /img/whatsapp-image-2019-02-12-at-10.13.24-am.jpeg
 values:
   - heading: Shade-grown coffee
     imageUrl: /img/image5.jpg
